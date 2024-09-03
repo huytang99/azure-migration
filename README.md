@@ -63,10 +63,11 @@ Complete a month cost analysis of each Azure resource to give an estimate total 
 
 | Azure Resource | Service Tier | Monthly Cost |
 | ------------ | ------------ | ------------ |
-|Azure Postgres Database | Basic    |     $26      |
-| Azure Service Bus    |   Standard   |     $ 9.81   |
-| Azure App Service    |Basic (B1)  |     Free     |
-| Azure Function App	  | Consumption|    Free    |
+|Azure Postgres Database | Ddsv5 - Series    |     $129.94      |
+| Azure Service Bus    |   Premium   |     $677.08   |
+| Azure App Service    | Premium (V2)  |     $172.28     |
+| Azure Function App	  | Premium |    $178.85    |
+| Storage Accounts     | Premium  |   $218    |
 
 ## Architecture Explanation
 - Azure Web Apps offer a robust and efficient platform for deploying and managing web applications. With their pay-as-you-go pricing model, businesses can optimize costs by scaling resources up or down to meet fluctuating demand. This eliminates the need for costly upfront investments in infrastructure.
